@@ -1,5 +1,5 @@
 # Hey hey, I am Sandra - here behind a nick name [ST-dev28][github] 👋
-[![Website](https://img.shields.io/badge/GitHub-repo-blue)](https://github.com/ST-dev28)
+[![github](https://img.shields.io/badge/GitHub-repo-blue)](https://github.com/ST-dev28)
 
 ## I'm a person looking for challenges, pushing myself outside the comfort zone and always ready to jump into new fresh experieces...
 
