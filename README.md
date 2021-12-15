@@ -8,9 +8,11 @@
 - I would be glad to be in contact with other students and teachers to be able to share and exchange our experience and help each other;
 -  The main goal in my future is to find my first job in IT field based on my knowledge with the hope to learn more. For the start I have all work options on my mind here: part or full time, hourly or project based... Open for offers !!!
 
+My studies [progress](https://skyline.github.com/st-dev28/2021)
+
 ### Find me here:
 
-[<img align="left" alt="ST-dev28" width="22px" src="https://github.com/ST-dev28" />][github]
+[<img align="left" alt="ST-dev28.com" width="22px" src="https://github.com/ST-dev28" />][github]
 [<img align="left" alt="Sandra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sandra | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
