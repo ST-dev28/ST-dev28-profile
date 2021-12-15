@@ -9,6 +9,7 @@
 -  The main goal in my future is to find my first job in IT field based on my knowledge with the hope to learn more. For the start I have all work options on my mind here: part or full time, hourly or project based... Open for offers !!!
 
 My studies [progress](https://skyline.github.com/st-dev28/2021)
+My profile [card](https://st-dev28.github.io/01-my-profile-card/)
 
 ### Find me here:
 
