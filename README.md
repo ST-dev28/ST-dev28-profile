@@ -30,7 +30,7 @@ My studies [progress](https://skyline.github.com/st-dev28/2021)
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Angular" width="26px" src="https://e7.pngegg.com/pngimages/14/568/png-clipart-angularjs-logo-javascript-security-token-angle-triangle.png" />
-<img align="left" alt="Node JS" width="26px" src="https://mpng.subpng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg" />
+<img align="left" alt="Node JS" width="26px" src="https://e7.pngegg.com/pngimages/540/810/png-clipart-node-js-javascript-npm-computer-icons-web-application-others-miscellaneous-text.png" />
 
 <br />
 <br />
