@@ -37,5 +37,5 @@ My studies [progress](https://skyline.github.com/st-dev28/2021)
 ---
 
 [github]: https://github.com/ST-dev28
-[linkedin]: linkedin.com/in/sandra-tertelienė-aa764561
+[linkedin]: https://www.linkedin.com/in/sandra-tertelien%C4%97-aa764561/
 [facebook]: https://www.facebook.com/sadrule
