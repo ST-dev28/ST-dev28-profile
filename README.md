@@ -10,7 +10,7 @@
 
 My studies [progress](https://skyline.github.com/st-dev28/2021)
 <br/>
-My profile [card](https://st-dev28.github.io/01-my-profile-card/)
+My profile [card](https://st-dev28.github.io/01-my-profile-card2/)
 
 ### Find me here:
 
